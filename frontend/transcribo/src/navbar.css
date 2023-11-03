@@ -1,0 +1,46 @@
+:root {
+    scroll-behavior: smooth;
+  }
+  body {
+    font-family: "Open Sans", sans-serif;
+    color: #444444;
+    font-weight: 600;
+  }
+  
+  .navbar{
+    padding: 10px 10px;
+    background-color: #fff;
+    max-width: 100%;
+  }
+  a{
+   
+    color:#013289;
+  
+    text-decoration: none;
+  }
+  .nav-items ul li a{
+    color:#013289;
+   
+  }
+
+  .nav-items .navpage{
+    padding: 6px 20px;
+  }
+  
+  
+/* Custom styles for the navbar */
+.navbar-custom {
+  background-color: #fff; /* Navbar background color */
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Minor shadow effect */
+}
+
+/* Style the Signup and Login buttons */
+.navbar .nav-link.btn {
+  background-color: #007bff; /* Button background color */
+  color: #fff; /* Button text color */
+}
+
+/* Add a hover effect for Signup and Login buttons */
+.navbar .nav-link.btn:hover {
+  background-color: #0056b3; /* Darker background color on hover */
+}

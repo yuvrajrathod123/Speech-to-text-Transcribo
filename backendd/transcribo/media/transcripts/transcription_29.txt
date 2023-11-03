@@ -1,0 +1,8 @@
+Meeting Title: Board Meeting Annual
+Date: 2023-10-12
+Start Time: 16:13:00
+End Time: 17:15:00
+Department: it
+Room: Board room1
+
+Hello.

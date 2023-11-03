@@ -1,0 +1,16 @@
+Meeting Details:
+Meeting Title: meeting about internship
+Date: 2023-11-11
+Start Time: 11:04:00
+End Time: 12:05:00
+Department: it
+Room: Board room3
+
+
+
+Original Transcript:
+Hello my name is Prasad. Hello, my name is Prasad. Today we are gathered here to show our project transcriber which is a speech to text recognition system and transcription system. In board meetings, we can see that there is always a person who writes the M manually. And. We have implemented a system that converts the speech to text for board meetings. For anyone who is speaking in the board meeting, it can convert it into a return transcript and often summarise it. We also feature a boardroom management system where you can book multiple boardrooms based on availability and it features various entities such as the name of the meeting, schedule of the meeting and the agenda of the meeting. The return transcription and summary after the meeting has concluded.
+
+
+Summarized Transcript:
+the project transcriber is a speech to text recognition system and transcription system. for anyone who is speaking in board meetings, it can convert it into a return transcript and often summarise it. the return transcription and summary after the meeting has concluded. a boardroom management system is also available to book multiple boardrooms based on availability and it features various entities such as the name of the meeting, schedule of the meeting and the agenda of the meeting. the return transcription and summary after the meeting has concluded. '##00
